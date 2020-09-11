@@ -1,0 +1,45 @@
+{
+  "name": "react-private-route",
+  "version": "1.0.0",
+  "description": "provide privte route for your react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmedhemaz/react-private-route.git"
+  },
+  "keywords": [
+    "react",
+    "private-route-react"
+  ],
+  "author": "Ahmedhemaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmedhemaz/react-private-route/issues"
+  },
+  "homepage": "https://github.com/Ahmedhemaz/react-private-route#readme",
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react-router-dom": "^5.2.0",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
+}
