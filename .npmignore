@@ -1,5 +1,8 @@
 src
-demo
 .babelrc
 webpack.config.js
 coverage
+webpack.local.config.js
+webpack.production.config.js
+.eslintrc
+.gitignore

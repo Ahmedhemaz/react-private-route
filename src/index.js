@@ -1,3 +1,3 @@
 import PrivateRoute from './PrivateRoute/PrivateRoute';
 
-module.exports = PrivateRoute
+export default PrivateRoute
