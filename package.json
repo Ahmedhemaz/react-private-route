@@ -1,6 +1,6 @@
 {
   "name": "private-route-react",
-  "version": "1.1.0",
+  "version": "1.1.12",
   "description": "provide privte route for your react application",
   "main": "lib/index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/Ahmedhemaz/react-private-route#readme",
   "peerDependencies": {
-    "prop-types": "^15.7.2",
-    "react-router-dom": "^5.2.0",
+    "prop-types": ">=15.7.2",
+    "react-router-dom": ">=5.2.0",
     "react": ">=15.0.1",
     "react-dom": ">=15.0.1"
   },
@@ -43,10 +43,8 @@
     "react-dom": ">=15.0.1",
     "webpack": "^4.18.1",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.8"
-  },
-  "dependencies": {
-    "react-router-dom": "^5.2.0"
+    "webpack-dev-server": "^3.1.8",
+    "react-router-dom": ">=5.2.0"
   },
   "jest": {
     "transform": {
